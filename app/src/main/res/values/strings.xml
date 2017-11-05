@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="help_center_text">Quickly find answers to your questions</string>
+    <string name="help_contact_us_text">Chat with customer service or leave a message</string>
+    <string name="error_body_text">We are experiencing some technical difficulties, hence this service is temporarily unavailable. We apologise for the inconvenience.</string>
+</resources>
